@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dnoach
 - 👀 I’m interested in cybersecurity, cryptography, blockchains and sports
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me https://www.aviadnoah.com
+- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki) How to reach me 
 
 <!---
 dnoach/dnoach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
